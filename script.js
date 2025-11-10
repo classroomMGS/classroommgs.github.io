@@ -3,7 +3,7 @@ const zoneViewer = document.getElementById('zoneViewer');
 let zoneFrame = document.getElementById('zoneFrame');
 const searchBar = document.getElementById('searchBar');
 const sortOptions = document.getElementById('sortOptions');
-const zonesURL = "https://cdn.jsdelivr.net/gh/classroomgms/classroomgms.github.io@09632c0/zones.json";
+const zonesURL = "https://cdn.jsdelivr.net/gh/classroommgs/classroommgs.github.io@main/zones.json";
 const coverURL = "https://cdn.jsdelivr.net/gh/gn-math/covers@main";
 const htmlURL = "https://cdn.jsdelivr.net/gh/gn-math/html@main";
 
